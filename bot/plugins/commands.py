@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/mrgbotrepairs"
+                                    'our channel', url="https://t.me/malayalipeveranu"
                                 )
                         ]
                     ]
